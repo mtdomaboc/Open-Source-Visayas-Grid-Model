@@ -1,6 +1,6 @@
 # Open-Source Visayas Grid Model Simulator
 
-An open-source power system simulator for the Visayas Grid, built with [Pandapower](https://www.pandapower.org/) and [Dear PyGui](https://github.com/hoffstadt/DearPyGui). Designed as an accessible platform for power system education and research in the Philippine context.
+An open-source power system simulator for the Visayas Grid, built with [Pandapower](https://www.pandapower.org/) and [Dear PyGui](https://github.com/hoffstadt/DearPyGui). Designed as an accessible platform for power system studies in the Philippine context.
 
 ## Features
 - AC Power Flow using the Newton-Raphson method
