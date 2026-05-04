@@ -20,7 +20,7 @@ An open-source power system simulator for the Visayas Grid, built with [Pandapow
 | File | Description |
 |------|-------------|
 | `Open Source Visayas Grid Model Simulator.exe` | Standalone application (177 MB) |
-| `Open-Source Visayas Grid Model User Manual.pdf` | User manual, technical documentation, and test cases |
+| `Open-Source Visayas Grid Model User Manual.pdf` | User manual |
 | `Visayas_Grid_CSV.zip` | CSV input files for all network elements |
 
 ## Developers
