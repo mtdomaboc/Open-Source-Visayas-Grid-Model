@@ -12,7 +12,7 @@ An open-source power system simulator for the Visayas Grid, built with [Pandapow
 
 ## Getting Started
 1. Download `Open Source Visayas Grid Model Simulator.exe` from this repository.
-2. Place the `.exe` inside an empty folder — running it will generate HTML files for the map and SLD in the same directory.
+2. Place the `.exe` inside an empty folder. Running it will generate HTML files for the map and SLD in the same directory.
 3. Double-click the `.exe` to launch. No Python installation or additional dependencies required.
 4. For detailed instructions on installation, features, and usage, please refer to the **Open-Source Visayas Grid Model User Manual.pdf** included in this repository.
 
